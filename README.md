@@ -19,3 +19,5 @@ Right-click the .dmg and choose **Open**, then click **Open** again in the dialo
 ## Support
 
 Questions or bug reports: alex@tbay.tk
+
+**Latest:** v1.0.0-beta.11 (Windows) · macOS / Linux: v1.0.0-beta.4
