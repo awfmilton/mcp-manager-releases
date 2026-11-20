@@ -20,4 +20,4 @@ Right-click the .dmg and choose **Open**, then click **Open** again in the dialo
 
 Questions or bug reports: alex@tbay.tk
 
-**Latest:** v1.0.0-beta.12 (Windows, Linux) · macOS: v1.0.0-beta.4
+**Latest:** v1.0.0-beta.13 (Windows, Linux) · macOS: v1.0.0-beta.4
